@@ -1,1 +1,2 @@
-# Machine-Learning
+# Rekomendasi-Matakuliah
+Project akhir matakuliah Machine Learning
